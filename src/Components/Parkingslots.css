@@ -1,0 +1,49 @@
+/* li{
+    list-style: none;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+h2{
+    text-align: center;
+    font-size: 100px;
+    margin-top: 0;
+}
+p{
+    text-align: left;
+}
+
+.Parkingslots-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: center;
+    display: grid;
+    grid-template-columns: repeat(6,auto);
+    grid-gap: 10px;
+    
+} */
+
+/* .Parkingslotsdata{
+    flex: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+    background-color: #080808;
+} */
+
+.Parkingslotsdata img {
+    align-self: right;
+    width: 80px;
+    height: 80px;
+}
+
+.container{
+    justify-content: space-between;
+
+}

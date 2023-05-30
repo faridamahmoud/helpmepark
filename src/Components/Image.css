@@ -1,0 +1,19 @@
+.Homeimg{
+    height: 620px;
+    width: 1200px;
+    object-fit: cover;
+   
+}
+
+img{
+    height: 550px;
+    width: 1500px;
+
+}
+h1{
+    text-align: center;
+    color: rgb(1, 1, 27);
+    font-weight: 500px;
+    font-size: 1000px;
+}
+
